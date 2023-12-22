@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/jqrony/jqrony#readme",
   "dependencies": {
-    "snizzle": "^1.2.0"
+    "snizzle": "^1.3.0"
   }
 }
